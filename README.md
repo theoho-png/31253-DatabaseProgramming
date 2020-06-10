@@ -12,4 +12,4 @@ The package uses data from V_NEM_RM16 table.
 
 The ouput prediction is in LOCAL_RM16 table.
 
-I is essential to set server output on.
+It is essential to set server output on.
